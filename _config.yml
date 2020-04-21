@@ -9,7 +9,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://everydavemylife.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: https://youtu.be/cIXGCeUg8pc # add banner video. Add your video file to the folder video
+video: videos\homepage-background.mp4 # add banner video. Add your video file to the folder video
 banner-title: # add banner title
 banner-desc: # add banner description
 
