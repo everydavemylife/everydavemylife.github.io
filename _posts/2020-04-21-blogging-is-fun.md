@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bloggin, not lame anymore"
-img: himalayan.png # Add image post (optional)
+img: himalayan.jpg # Add image post (optional)
 date: 2020-04-20 04:20:00 +0300
 description: # Add post description (optional)
 tag: [testing]
